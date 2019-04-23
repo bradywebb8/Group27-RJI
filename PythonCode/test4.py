@@ -49,7 +49,7 @@ j = 0
 # deviations is an array of the standard deviations across the 'blur_res' number of bins
 deviations = []
 
-# compute the  between pixel frequency across the 'blur_res' number of bins
+# compute the standard deviation between pixel frequency across the 'blur_res' number of bins
 while (i < nbins - blur_res):
     k = 0
     while (k < blur_res):
