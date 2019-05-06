@@ -1,2 +1,4 @@
 # Group27-RJI
 Go to the wiki to view our sprints in making our project
+
+This project is a image uploader and classifier to take in images and have them given a specific rating. They are then to be given back to the user in a way that they can do with them what they please. Our final project would aim to allow for a very simple and easy upload and viewing of the images the user has selected. Once the images are uploaded the user gets a complete message and can see all of the images they have uploaded as well as already exisiting pictures on the server. It would be very nice if the end user could then select the pictures they want and move them to their downloads or desktop. This would bea very ideal end use for us and right now we are making good progress on getting this accomplished and have done a few of the things said above already!
